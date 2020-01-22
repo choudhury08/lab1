@@ -1,0 +1,60 @@
+h5 {
+  position: fixed;
+  text-align: center;
+  overflow: auto;
+}
+h5 {
+  width: auto;
+  margin: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.firstStyle:link,
+.firstStyle:visited {
+  display: block;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  padding: 5px;
+  color: #69696a;
+}
+.firstStyle:hover,
+.firstStyle:active {
+  border-radius: 50px 50px 50px 50px;
+  background-color: #000;
+}
+
+li {
+  float: right;
+}
+h1 {
+  position: absolute;
+  left: 92px;
+  bottom: 130px;
+  overflow: auto;
+}
+p {
+  position: absolute;
+  left: 100px;
+  bottom: 100px;
+}
+.secondStyle {
+  display: block;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  padding: 5px;
+  color: #69696a;
+}
+
+.secondStyle:hover,
+:active {
+  background-color: #000;
+  border-radius: 50px 50px 50px 50px;
+}
+
+}
